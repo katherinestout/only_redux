@@ -1,0 +1,22 @@
+{
+  "name": "only_redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katherinestout/only_redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katherinestout/only_redux/issues"
+  },
+  "homepage": "https://github.com/katherinestout/only_redux#readme",
+  "dependencies": {
+    "redux": "^4.0.0"
+  }
+}
